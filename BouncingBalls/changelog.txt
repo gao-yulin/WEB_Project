@@ -1,0 +1,5 @@
+2020/06/05
+We are going to finish the game, but it's in progress.
+Please wait for milestone 3, which is the final submission.
+There's some bug that prevents us to move the ball.
+I think we will fix it later
